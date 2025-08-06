@@ -119,7 +119,13 @@ Step 7: Final Checks & Launch Prep
 ![FNNFHVNLSIY3NM1](https://github.com/user-attachments/assets/d414f6e4-5316-48bf-8399-652067ddf682)![2023_11_24_19_31_IMG_4607](https://github.com/user-attachments/assets/59194b04-9f95-4b39-b641-6bf2936fe191)
 https://github.com/user-attachments/assets/824e41b4-9728-4d63-8353-17a8c6e7feba
 ![2024_02_12_21_37_IMG_5728](https://github.com/user-attachments/assets/70a96741-a529-4433-acea-21f0b8a9a74d)
-
 <img width="251" height="188" alt="F70H654LSIY3NI4" src="https://github.com/user-attachments/assets/77007ae1-658d-4f71-b5ed-7999b94f2140" />
+[RepSummaryII.pdf](https://github.com/user-attachments/files/21612951/RepSummaryII.pdf)
+[xRepSummaryI.pdf](https://github.com/user-attachments/files/21612953/xRepSummaryI.pdf)
+![Balloon_Track](https://github.com/user-attachments/assets/356fe4f2-fcb7-49d4-869c-4506217770fe)
+![Altitude_Diagram](https://github.com/user-attachments/assets/d9720d25-3c55-4c25-9526-6b6e44e7c97e)
+![Thermodynamic_Diagram](https://github.com/user-attachments/assets/38d8a1bf-e92d-40dc-87d1-5c1c65c2cd2b)
+![Skew_T_Diagram](https://github.com/user-attachments/assets/52469a9a-af80-4fd0-a3ad-1f0be1ba9c74)
+
 
 
