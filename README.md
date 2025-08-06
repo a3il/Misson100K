@@ -1,4 +1,4 @@
-
+![2024_02_12_21_37_IMG_5725](https://github.com/user-attachments/assets/9e3e1a9a-89db-49f0-affb-69bffae844f9)
 # Misson100K
 **High altitude long distance wireless live video/telemetry transmission system for weather balloons.**
 
@@ -108,7 +108,6 @@ Step 7: Final Checks & Launch Prep
     https://www.youtube.com/watch?v=7ThlhtiWbS8&t=3568s
     https://github.com/user-attachments/assets/9976c697-aa2c-41da-b72f-858c7ab0d001
     Achieved stable live HD video transmission over 20km.
-
     Maintained low latency and high signal integrity throughout balloon ascent.
 
     
@@ -116,7 +115,10 @@ Step 7: Final Checks & Launch Prep
 ![FJ6FQYULSIY3NKT](https://github.com/user-attachments/assets/489f5a8d-6a75-477e-a495-fd2a16b4858b)
 ![FH9T0NNLSIY3NEF](https://github.com/user-attachments/assets/9057671d-1ef5-4337-8275-3783666aaf58)
 ![FEHTKYLLSIY3NN9](https://github.com/user-attachments/assets/7db1d363-4fc1-4767-b440-25767b317d45)
-![FNNFHVNLSIY3NM1](https://github.com/user-attachments/assets/d414f6e4-5316-48bf-8399-652067ddf682)
+![FNNFHVNLSIY3NM1](https://github.com/user-attachments/assets/d414f6e4-5316-48bf-8399-652067ddf682)![2023_11_24_19_31_IMG_4607](https://github.com/user-attachments/assets/59194b04-9f95-4b39-b641-6bf2936fe191)
+https://github.com/user-attachments/assets/824e41b4-9728-4d63-8353-17a8c6e7feba
+![2024_02_12_21_37_IMG_5728](https://github.com/user-attachments/assets/70a96741-a529-4433-acea-21f0b8a9a74d)
+
 <img width="251" height="188" alt="F70H654LSIY3NI4" src="https://github.com/user-attachments/assets/77007ae1-658d-4f71-b5ed-7999b94f2140" />
 
 
