@@ -115,7 +115,10 @@ Step 7: Final Checks & Launch Prep
     Achieved stable live HD video transmission over 20km.
     Maintained low latency and high signal integrity throughout balloon ascent.
 
-    
+![Balloon_Track](https://github.com/user-attachments/assets/356fe4f2-fcb7-49d4-869c-4506217770fe)
+![Altitude_Diagram](https://github.com/user-attachments/assets/d9720d25-3c55-4c25-9526-6b6e44e7c97e)
+![Thermodynamic_Diagram](https://github.com/user-attachments/assets/38d8a1bf-e92d-40dc-87d1-5c1c65c2cd2b)
+![Skew_T_Diagram](https://github.com/user-attachments/assets/52469a9a-af80-4fd0-a3ad-1f0be1ba9c74)    
 ![2024_02_12_21_37_IMG_5725](https://github.com/user-attachments/assets/9e3e1a9a-89db-49f0-affb-69bffae844f9)
 ![FJ6FQYULSIY3NKT](https://github.com/user-attachments/assets/489f5a8d-6a75-477e-a495-fd2a16b4858b)
 ![FH9T0NNLSIY3NEF](https://github.com/user-attachments/assets/9057671d-1ef5-4337-8275-3783666aaf58)
@@ -126,10 +129,7 @@ https://github.com/user-attachments/assets/824e41b4-9728-4d63-8353-17a8c6e7feba
 <img width="251" height="188" alt="F70H654LSIY3NI4" src="https://github.com/user-attachments/assets/77007ae1-658d-4f71-b5ed-7999b94f2140" />
 [RepSummaryII.pdf](https://github.com/user-attachments/files/21612951/RepSummaryII.pdf)
 [xRepSummaryI.pdf](https://github.com/user-attachments/files/21612953/xRepSummaryI.pdf)
-![Balloon_Track](https://github.com/user-attachments/assets/356fe4f2-fcb7-49d4-869c-4506217770fe)
-![Altitude_Diagram](https://github.com/user-attachments/assets/d9720d25-3c55-4c25-9526-6b6e44e7c97e)
-![Thermodynamic_Diagram](https://github.com/user-attachments/assets/38d8a1bf-e92d-40dc-87d1-5c1c65c2cd2b)
-![Skew_T_Diagram](https://github.com/user-attachments/assets/52469a9a-af80-4fd0-a3ad-1f0be1ba9c74)
+
 
 
 
