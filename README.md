@@ -11,9 +11,9 @@ The system is powered by a high capacity lithium battery with a UBEC BEC for vol
 
 I housed the whole installation within a weather balloon payload such that it would be transported to stratospheric altitudes. A sonde device provides real time telemetry data, such as GPS, altitude, and environmental conditions yet another collection of functionality for the system.
 
-📡 DIY Wireless Long-Distance Live Video Transmission (20km+) for Weather Balloons📡
 
-This project demonstrates how I built a real time HD video transmission system that works over 20 kilometers using OpenHD, Raspberry Pi, and long-range Wi-Fi hardware. The setup was mounted on a weather balloon, with telemetry and video feed transmitted back to the ground in real time.
+**This project demonstrates how I built a real time HD video transmission system that works over 20 kilometers using OpenHD, Raspberry Pi, and long-range Wi-Fi hardware. The setup was mounted on a weather balloon, with telemetry and video feed transmitted back to the ground in real time.**
+
 🛠️ Supplies
 
     ✅ ALFA Network Long-Range Dual-Band AC1200 Wi-Fi Adapters (at least 3 for receiver, 1 for transmitter)
