@@ -1,4 +1,9 @@
-# Misson100K
+
+# Misson1
+
+https://github.com/user-attachments/assets/9976c697-aa2c-41da-b72f-858c7ab0d001
+
+00K
 **High altitude long distance wireless live video/telemetry transmission system for weather balloons.**
 
 I'm thrilled to present my work on a remote wireless live video transmission.
@@ -104,9 +109,17 @@ Step 7: Final Checks & Launch Prep
 
 🧪 Results
 
+    https://www.youtube.com/watch?v=7ThlhtiWbS8&t=3568s
     Achieved stable live HD video transmission over 20km.
 
     Maintained low latency and high signal integrity throughout balloon ascent.
 
+    
+
+![FJ6FQYULSIY3NKT](https://github.com/user-attachments/assets/489f5a8d-6a75-477e-a495-fd2a16b4858b)
+![FH9T0NNLSIY3NEF](https://github.com/user-attachments/assets/9057671d-1ef5-4337-8275-3783666aaf58)
+![FEHTKYLLSIY3NN9](https://github.com/user-attachments/assets/7db1d363-4fc1-4767-b440-25767b317d45)
+![FNNFHVNLSIY3NM1](https://github.com/user-attachments/assets/d414f6e4-5316-48bf-8399-652067ddf682)
+<img width="251" height="188" alt="F70H654LSIY3NI4" src="https://github.com/user-attachments/assets/77007ae1-658d-4f71-b5ed-7999b94f2140" />
 
 
