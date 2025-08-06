@@ -1,7 +1,8 @@
-![2024_02_12_21_37_IMG_5725](https://github.com/user-attachments/assets/9e3e1a9a-89db-49f0-affb-69bffae844f9)
 # Misson100K
 **High altitude long distance wireless live video/telemetry transmission system for weather balloons.**
 
+
+https://www.youtube.com/watch?v=7ThlhtiWbS8&t=3568s
 I'm thrilled to present my work on a remote wireless live video transmission.
 
 This solution delivers stable HD video, for example, over a distance of more than 20 kilometers using Wi-Fi,Yes you heard it right. It was founded upon ALFA Network dual band AC1200 wireless adapters, three on the receiver's side, and one at the transmitter, to build up a beam forming(MIMO), high bandwidth network.
@@ -111,7 +112,7 @@ Step 7: Final Checks & Launch Prep
     Maintained low latency and high signal integrity throughout balloon ascent.
 
     
-
+![2024_02_12_21_37_IMG_5725](https://github.com/user-attachments/assets/9e3e1a9a-89db-49f0-affb-69bffae844f9)
 ![FJ6FQYULSIY3NKT](https://github.com/user-attachments/assets/489f5a8d-6a75-477e-a495-fd2a16b4858b)
 ![FH9T0NNLSIY3NEF](https://github.com/user-attachments/assets/9057671d-1ef5-4337-8275-3783666aaf58)
 ![FEHTKYLLSIY3NN9](https://github.com/user-attachments/assets/7db1d363-4fc1-4767-b440-25767b317d45)
