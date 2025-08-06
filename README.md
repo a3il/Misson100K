@@ -1,9 +1,6 @@
 # Misson100K
 High altitude long distance wireless live video/telemetry transmission system for weather balloons.
 
-# Misson100K
-High altitude long distance wireless live video/telemetry transmission system for weather balloons.
-
 I'm thrilled to present my work on a remote wireless live video transmission.
 
 This solution delivers stable HD video, for example, over a distance of more than 20 kilometers using Wi-Fi,Yes you heard it right. It was founded upon ALFA Network dual band AC1200 wireless adapters, three on the receiver's side, and one at the transmitter, to build up a beam forming(MIMO), high bandwidth network.
