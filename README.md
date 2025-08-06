@@ -1,5 +1,5 @@
 # Misson100K
-High altitude long distance wireless live video/telemetry transmission system for weather balloons.
+**High altitude long distance wireless live video/telemetry transmission system for weather balloons.**
 
 I'm thrilled to present my work on a remote wireless live video transmission.
 
